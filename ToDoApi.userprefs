@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{F5D3F170-3B78-4447-876D-988D05D573F7}|Default">
   <MonoDevelop.Ide.ItemProperties.ToDoApi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApi Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApi/Models/EmptyClass.cs">
     <Files>
       <File FileName="ToDoApi/Controllers/ValuesController.cs" Line="1" Column="1" />
-      <File FileName="ToDoApi/Models/TodoItem.cs" Line="8" Column="44" />
-      <File FileName="ToDoApi Status" />
+      <File FileName="ToDoApi/Models/TodoItem.cs" Line="6" Column="37" />
+      <File FileName="ToDoApi/Models/EmptyClass.cs" Line="4" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Models PreferredExecutionTarget="MonoDevelop.Default" />
