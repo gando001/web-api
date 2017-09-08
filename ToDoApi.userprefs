@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{F5D3F170-3B78-4447-876D-988D05D573F7}|Default">
   <MonoDevelop.Ide.ItemProperties.ToDoApi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApi/Controllers/ValuesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ToDoApi Status">
     <Files>
       <File FileName="ToDoApi/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="ToDoApi/Models/TodoItem.cs" Line="8" Column="44" />
+      <File FileName="ToDoApi Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Models PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
